@@ -1,8 +1,8 @@
-# Project 4 - *Trivia App Remastered*
+# Project 4 - *Trivia App Updated*
 
 Submitted by: **Anthony Campos**
 
-**Trivia App Remastered** is an app that uses questions from a trivia database and displays 10 questions each round. The score is shown at the end and the user is given the option to restart the game. 
+**Trivia App Updated** is an app that uses questions from a trivia database and displays 10 questions each round. The score is shown at the end and the user is given the option to restart the game. 
 
 Time spent: **12** hours spent in total
 
